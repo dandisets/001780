@@ -11,9 +11,21 @@ assetsSummary:
   numberOfBytes: 0
   numberOfFiles: 0
   schemaKey: AssetsSummary
-citation: de Vries, Saskia; Reid, Clay (2026) Allen Institute - V1 Deep Dive Golden
-  Mouse (Version draft) [Data set]. DANDI Archive. https://dandiarchive.org/dandiset/001780/draft
+citation: Allen Institute; de Vries, Saskia; Reid, Clay; Abbasi-Asl, Reza; Arkhipov,
+  Anton; Bleckert, Adam; Bodor, Agnes; Brittain, Derrick; Buchanan, Joann; Bumbarger,
+  Dan; Denman, Daniel; Elabaddy, Leila; Gouwens, Nathan; Joyce, Emily; Kapner, Dan;
+  Kinn, Sam; Larkin, Josh; Lecoq, Jerome; Mahalingam, Gathathri; Millman, Daniel;
+  Ouellette, Naveen; Scheider-Mizell, Casey; Seshamani, Sharmi; Takasaki, Kevin; Takeno,
+  Mark; Torres, Russel; Vumbaco, David; Waters, Jack; Wyrick, David; Yin, Wenjing;
+  Zhuang, Jun (2026) Allen Institute - V1 Deep Dive Golden Mouse (Version draft) [Data
+  set]. DANDI Archive. https://dandiarchive.org/dandiset/001780/draft
 contributor:
+- identifier: https://ror.org/03cpe7c52
+  includeInCitation: true
+  name: Allen Institute
+  roleName:
+  - dcite:Funder
+  schemaKey: Organization
 - affiliation:
   - name: Allen Institute
     schemaKey: Affiliation
@@ -49,67 +61,90 @@ contributor:
   includeInCitation: true
   name: Reid, Clay
   schemaKey: Person
-- name: Abbasi-Asl, Reza
+- includeInCitation: true
+  name: Abbasi-Asl, Reza
   schemaKey: Person
-- name: Arkhipov, Anton
+- includeInCitation: true
+  name: Arkhipov, Anton
   schemaKey: Person
-- name: Bleckert, Adam
+- includeInCitation: true
+  name: Bleckert, Adam
   schemaKey: Person
-- name: Bodor, Agnes
+- includeInCitation: true
+  name: Bodor, Agnes
   schemaKey: Person
-- name: Brittain, Derrick
+- includeInCitation: true
+  name: Brittain, Derrick
   schemaKey: Person
-- name: Buchanan, Joann
+- includeInCitation: true
+  name: Buchanan, Joann
   schemaKey: Person
-- name: Bumbarger, Dan
+- includeInCitation: true
+  name: Bumbarger, Dan
   schemaKey: Person
-- name: Denman, Daniel
+- includeInCitation: true
+  name: Denman, Daniel
   schemaKey: Person
-- name: Elabaddy, Leila
+- includeInCitation: true
+  name: Elabaddy, Leila
   schemaKey: Person
-- name: Gouwens, Nathan
+- includeInCitation: true
+  name: Gouwens, Nathan
   schemaKey: Person
-- name: Joyce, Emily
+- includeInCitation: true
+  name: Joyce, Emily
   schemaKey: Person
-- name: Kapner, Dan
+- includeInCitation: true
+  name: Kapner, Dan
   schemaKey: Person
-- name: Kinn, Sam
+- includeInCitation: true
+  name: Kinn, Sam
   schemaKey: Person
-- name: Larkin, Josh
+- includeInCitation: true
+  name: Larkin, Josh
   schemaKey: Person
-- name: Lecoq, Jerome
+- includeInCitation: true
+  name: Lecoq, Jerome
   schemaKey: Person
-- name: Mahalingam, Gathathri
+- includeInCitation: true
+  name: Mahalingam, Gathathri
   schemaKey: Person
-- name: Millman, Daniel
+- includeInCitation: true
+  name: Millman, Daniel
   schemaKey: Person
-- name: Ouellette, Naveen
+- includeInCitation: true
+  name: Ouellette, Naveen
   schemaKey: Person
-- name: Scheider-Mizell, Casey
+- includeInCitation: true
+  name: Scheider-Mizell, Casey
   schemaKey: Person
-- name: Seshamani, Sharmi
+- includeInCitation: true
+  name: Seshamani, Sharmi
   schemaKey: Person
-- name: Takasaki, Kevin
+- includeInCitation: true
+  name: Takasaki, Kevin
   schemaKey: Person
-- name: Takeno, Mark
+- includeInCitation: true
+  name: Takeno, Mark
   schemaKey: Person
-- name: Torres, Russel
+- includeInCitation: true
+  name: Torres, Russel
   schemaKey: Person
-- name: Vumbaco, David
+- includeInCitation: true
+  name: Vumbaco, David
   schemaKey: Person
-- name: Waters, Jack
+- includeInCitation: true
+  name: Waters, Jack
   schemaKey: Person
-- name: Wyrick, David
+- includeInCitation: true
+  name: Wyrick, David
   schemaKey: Person
-- name: Yin, Wenjing
+- includeInCitation: true
+  name: Yin, Wenjing
   schemaKey: Person
-- name: Zhuang, Jun
+- includeInCitation: true
+  name: Zhuang, Jun
   schemaKey: Person
-- identifier: https://ror.org/03cpe7c52
-  name: Allen Institute
-  roleName:
-  - dcite:Funder
-  schemaKey: Organization
 dateCreated: '2026-04-09T22:33:32.527735+00:00'
 description: This is the functional imaging of the V1 Deep Dive functional connectomics
   dataset. It consists of visual responses of neurons in the primary visual cortex
