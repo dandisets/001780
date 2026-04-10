@@ -11,14 +11,14 @@ assetsSummary:
   numberOfBytes: 0
   numberOfFiles: 0
   schemaKey: AssetsSummary
-citation: Allen Institute; de Vries, Saskia; Reid, Clay; Abbasi-Asl, Reza; Arkhipov,
-  Anton; Bleckert, Adam; Bodor, Agnes; Brittain, Derrick; Buchanan, Joann; Bumbarger,
-  Dan; Denman, Daniel; Elabaddy, Leila; Gouwens, Nathan; Joyce, Emily; Kapner, Dan;
-  Kinn, Sam; Larkin, Josh; Lecoq, Jerome; Mahalingam, Gathathri; Millman, Daniel;
-  Ouellette, Naveen; Scheider-Mizell, Casey; Seshamani, Sharmi; Takasaki, Kevin; Takeno,
-  Mark; Torres, Russel; Vumbaco, David; Waters, Jack; Wyrick, David; Yin, Wenjing;
-  Zhuang, Jun (2026) Allen Institute - V1 Deep Dive Golden Mouse (Version draft) [Data
-  set]. DANDI Archive. https://dandiarchive.org/dandiset/001780/draft
+citation: Allen Institute; de Vries, Saskia; da Costa, Nuno; Buice, Michael; Collman,
+  Forrest; Reid, Clay; Abbasi-Asl, Reza; Arkhipov, Anton; Bleckert, Adam; Bodor, Agnes;
+  Brittain, Derrick; Buchanan, Joann; Bumbarger, Dan; Denman, Daniel; Elabaddy, Leila;
+  Gouwens, Nathan; Joyce, Emily; Kapner, Dan; Kinn, Sam; Larkin, Josh; Lecoq, Jerome;
+  Mahalingam, Gathathri; Millman, Daniel; Ouellette, Naveen; Scheider-Mizell, Casey;
+  Seshamani, Sharmi; Takasaki, Kevin; Takeno, Mark; Torres, Russel; Vumbaco, David;
+  Waters, Jack; Wyrick, David; Yin, Wenjing; Zhuang, Jun (2026) Allen Institute -
+  V1 Deep Dive Golden Mouse (Version draft) [Data set]. DANDI Archive. https://dandiarchive.org/dandiset/001780/draft
 contributor:
 - identifier: https://ror.org/03cpe7c52
   includeInCitation: true
@@ -40,18 +40,21 @@ contributor:
   - name: Allen Institute
     schemaKey: Affiliation
   email: nunod@alleninstitute.org
+  includeInCitation: true
   name: da Costa, Nuno
   schemaKey: Person
 - affiliation:
   - name: Allen Institute
     schemaKey: Affiliation
   email: michaelbu@alleninstitute.org
+  includeInCitation: true
   name: Buice, Michael
   schemaKey: Person
 - affiliation:
   - name: Allen Institute
     schemaKey: Affiliation
   email: forrestc@alleninstitute.org
+  includeInCitation: true
   name: Collman, Forrest
   schemaKey: Person
 - affiliation:
