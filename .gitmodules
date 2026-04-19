@@ -34,3 +34,7 @@
 	path = 409828_2018-11-28_10-54-56.nwb.zarr
 	url = https://github.com/dandizarrs/9af0d898-4321-467b-9301-a6b39b41f2f5
 	datalad-id = b548cda2-437b-4933-af66-cf1dac4f8dfb
+[submodule "409828_2018-11-29_13-42-04.nwb.zarr"]
+	path = 409828_2018-11-29_13-42-04.nwb.zarr
+	url = https://github.com/dandizarrs/bea6577e-8772-47fe-911a-ad0e33cb05d5
+	datalad-id = db922b1c-eb41-43dc-9276-8fd6fdfd789b
