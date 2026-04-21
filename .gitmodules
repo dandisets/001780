@@ -82,3 +82,11 @@
 	path = 409828_2018-12-12_12-24-18.nwb.zarr
 	url = https://github.com/dandizarrs/757d64e8-9449-40d9-a333-47f07aae75e0
 	datalad-id = 72824227-c749-4691-a155-8a6174b0038d
+[submodule "409828_2018-12-13_13-21-39.nwb.zarr"]
+	path = 409828_2018-12-13_13-21-39.nwb.zarr
+	url = https://github.com/dandizarrs/89e834a7-0c10-4cf7-8bdf-ea82ab65631a
+	datalad-id = d82b028c-e1a3-47e1-8fc4-3c9140b8bf0d
+[submodule "409828_2018-12-13_15-10-05.nwb.zarr"]
+	path = 409828_2018-12-13_15-10-05.nwb.zarr
+	url = https://github.com/dandizarrs/bdd6017c-ad33-4319-9867-fc8bb96bbb02
+	datalad-id = 86d57a18-e0bf-4e94-9459-5107b6893a3c
